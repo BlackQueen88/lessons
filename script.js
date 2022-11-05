@@ -109,18 +109,17 @@
 
 // Четвёртый этап  практика
 
-// let num1 = parseInt(prompt('Введите число'))
-// let num2 = parseInt(prompt('Введите число'))
-// let num3 = parseInt(prompt('Введите число'))
+let num1 = parseInt(prompt('Введите число'))
+let num2 = parseInt(prompt('Введите число'))
+let num3 = parseInt(prompt('Введите число'))
 
-// let sum = num1 + num2 + num3
-// let uma = num1 * num2 *  num3
-// let arif = sum / 3
+let sum = num1 + num2 + num3
+let uma = num1 * num2 *  num3
+let arif = sum / 3
 
-// alert ("Сумма чискл " + sum + "\n" +
+alert ("Сумма чискл " + sum + "\n" +
 
-// "Умножение " + uma + "\n" +
-// "Средне Арифметическое " + arif
-
-// )
+"Умножение " + uma + "\n" +
+"Средне Арифметическое " + arif
+)
 
